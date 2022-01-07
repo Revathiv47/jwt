@@ -8,6 +8,7 @@ import PrivateRoute from "./components/routing/PrivateRoute.js";
 
 // Screens
 import PrivateScreen from "./components/screens/PrivateScreen";
+import axios from './axios';
 
 import About from "./components/screens/About";
 import LoginScreen from "./components/screens/LoginScreen";
